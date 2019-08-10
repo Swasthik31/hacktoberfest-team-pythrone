@@ -5,3 +5,4 @@ This project gives a notification to your mobile when the product of your choice
 Members:
 
 * [@naveen](https://github.com/naveenvamshi971)
+Swasthik (https://github.com/swasthi31)
